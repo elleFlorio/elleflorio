@@ -1,7 +1,7 @@
 ### Ciao! 👋
 
 :it: My name is Luca Florio, and I am a Software Engineer from Italy.  
-:necktie: I am Currently working at [Pleo](https://www.pleo.io/en/), where I play the role of the Data Engineer.  
+:necktie: I am Currently working remotely at [Pleo](https://www.pleo.io/en/), where I play the role of the Data Engineer.  
 :mortar_board: I hold a PhD in Computer Science about Self-Adaptive Decentralised Systems.   
 :books: I like to tinker with Distributed Systems, and I :heart: functional programming.  
 :nerd_face: Right now I'm learning a bit of ML.  
