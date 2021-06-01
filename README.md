@@ -1,11 +1,11 @@
 ## Ciao! 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=elleFlorio)
-![stars](https://img.shields.io/github/stars/elleFlorio?style=social)
-![followers](https://img.shields.io/github/followers/elleFlorio?style=social)
 [![linkedin](https://img.shields.io/badge/elleflorio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elleflorio)](https://www.linkedin.com/in/elleflorio)
 [![blog](https://img.shields.io/badge/florio.dev-blueviolet?style=flat&logo=gatsby&logoColor=white&link=https://www.florio.dev/)](https://www.florio.dev/)
 [![freecodecamp](https://img.shields.io/badge/elleflorio-black?style=flat&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/news/author/elleflorio/)](https://www.freecodecamp.org/news/author/elleflorio/)
+
+[![stats](https://github-readme-stats.vercel.app/api?username=elleFlorio&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 🇮🇹 My name is Luca Florio, and I am a Software Engineer from Italy.  
 👔 I am currently working remotely at [Pleo](https://www.pleo.io/en/) as a Software Engineer on the Data Platform.  
