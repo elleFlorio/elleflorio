@@ -4,7 +4,7 @@
 [![blog](https://img.shields.io/badge/florio.dev-blueviolet?style=flat&logo=gatsby&logoColor=white&link=https://www.florio.dev/)](https://www.florio.dev/)
 
 🇮🇹 My name is Luca Florio, and I am a Software Engineer from Italy.  
-👔 I am currently working remotely at Spotify as a Software Engineer.  
+👔 I am currently working remotely at Spotify as a Senior Software Engineer.  
 🎓 I hold a PhD in Computer Science with a thesis on Self-Adaptive Decentralised Systems.  
 📚 I am a passionate engineer that loves Distributed Systems ❤️.  
 🤓 I love to read book on leadership and on technical stuff.  
